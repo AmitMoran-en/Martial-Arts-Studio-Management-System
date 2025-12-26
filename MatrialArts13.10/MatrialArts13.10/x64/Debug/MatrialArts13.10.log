@@ -1,0 +1,16 @@
+﻿  Date.c
+  Equipment.c
+  FileHelper.c
+  General.c
+  List.c
+  main.c
+  Person.c
+  Room.c
+  RoomManager.c
+  Studio.c
+  StudioFile.c
+  Trainee.c
+  Trainer.c
+  Training.c
+  Generating Code...
+  MatrialArts13.10.vcxproj -> C:\Users\amitm\Desktop\Amit_Moran 211895834_Shahar_Zeharia_211821475\MatrialArts13.10\x64\Debug\MatrialArts13.10.exe
